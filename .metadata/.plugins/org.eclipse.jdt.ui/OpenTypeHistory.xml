@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=mobile-app-ws/C:\/Users\/tarat\/OneDrive\/Desktop\/spring-tool-suite\/sts-4.26.0.RELEASE\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/21\/docs\/api\/=/=/maven.pomderived=/true=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1731817638376"/>
+    <typeInfo handle="=mobile-app-ws/C:\/Users\/tarat\/.m2\/repository\/org\/springframework\/data\/spring-data-commons\/3.3.5\/spring-data-commons-3.3.5.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.data=/=/maven.artifactId=/spring-data-commons=/=/maven.version=/3.3.5=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.data.repository(CrudRepository.class[CrudRepository" modifiers="1537" timestamp="1731862326974"/>
+</typeInfoHistroy>

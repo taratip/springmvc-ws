@@ -1,0 +1,5 @@
+spring.application.name=mobile-app-ws
+spring.datasource.username=tara
+spring.datasource.password=tara
+spring.datasource.url=jdbpc:mysql://localhost:3306/photo_app
+spring.jpa.hibernate.ddl-auto=update
