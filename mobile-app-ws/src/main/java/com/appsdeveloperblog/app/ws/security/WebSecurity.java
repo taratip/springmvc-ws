@@ -52,7 +52,6 @@ public class WebSecurity {
 						.sessionManagement()
 						.sessionCreationPolicy(SessionCreationPolicy.STATELESS);
 				} catch (Exception e) {
-					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
 			}
