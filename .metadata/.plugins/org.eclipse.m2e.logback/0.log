@@ -1984,3 +1984,15 @@
 2024-11-25 14:07:23,087 [Worker-460: Launching mobile-app-ws] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-11-25 14:07:23,292 [Worker-460: Launching mobile-app-ws] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-11-25 14:07:23,303 [Worker-460: Launching mobile-app-ws] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Tara\development\spring_project\mobile-app-ws\src\test\resources
+2024-11-25 14:51:18,089 [Worker-476: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-25 14:51:18,134 [Worker-476: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-25 14:51:18,137 [Worker-476: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Tara\development\spring_project\mobile-app-ws\src\test\resources
+2024-11-25 14:57:18,771 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-25 14:57:18,889 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-25 14:57:18,892 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Tara\development\spring_project\mobile-app-ws\src\test\resources
+2024-11-25 14:57:24,312 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-25 14:57:24,319 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-25 14:57:24,323 [Worker-478: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Tara\development\spring_project\mobile-app-ws\src\test\resources
+2024-11-25 15:10:13,982 [Worker-481: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-25 15:10:14,100 [Worker-481: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-25 15:10:14,106 [Worker-481: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Tara\development\spring_project\mobile-app-ws\src\test\resources
